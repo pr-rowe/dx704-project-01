@@ -1,0 +1,5 @@
+To better understand yfincance, I took a quick look at the link below for more information:
+
+https://www.geeksforgeeks.org/python/how-to-use-yfinance-api-with-python/
+
+Most of the yfinance work was done beforehand in the example video notebook.
