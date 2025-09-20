@@ -1,0 +1,3 @@
+UCB seems to be the best fit for this data, since it requires no prior assumptions and handles unknown reward distribution better than other algorithms. 
+It is also more robust and accurate than e-greedy according to this week's video.
+If we rescale the arms, the UCB algorithm will work well on this data. 
