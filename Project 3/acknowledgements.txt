@@ -1,0 +1,3 @@
+I didn't use any AI or new modules but I read this article and it was very helpful
+
+https://www.statsig.com/perspectives/upper-confidence-bound-statistics
