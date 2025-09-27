@@ -1,5 +1,5 @@
 recipe_slug	rating
-falafel	0.75
+falafel	-0.0625
 spamburger	0.75
 bacon-fried-rice	0.75
 chicken-fingers	1.0
@@ -24,7 +24,7 @@ fried-oysters	0.0
 peanut-butter-brownies	1.0
 almond-chip-cookies	0.75
 guacamole	0.75
-brioche-bread	3.0
+brioche-bread	0.5
 brioche-bread-with-chocolate	1.0
 asparagus-quiche	0.0
 asparagus-burger	0.0
